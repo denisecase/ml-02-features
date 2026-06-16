@@ -1,0 +1,8 @@
+2026-06-16 11:07:41 | INFO | ML | === RUN START ===
+2026-06-16 11:07:41 | INFO | ML | project=ML
+2026-06-16 11:07:41 | INFO | ML | repo_dir=ml-02-features
+2026-06-16 11:07:41 | INFO | ML | python=3.14.0
+2026-06-16 11:07:41 | INFO | ML | os=Windows 11
+2026-06-16 11:07:41 | INFO | ML | shell=powershell
+2026-06-16 11:07:41 | INFO | ML | cwd=.
+2026-06-16 11:07:41 | INFO | ML | github_actions=False
