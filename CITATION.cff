@@ -27,12 +27,15 @@ license: MIT
 
 abstract: >
   Machine learning project.
-  Learn to characterize machine learning problems.
+  Learn to engineer and select features for machine learning,
+  including handling missing values, encoding categorical variables,
+  scaling numeric features, and selecting the most informative inputs.
 
 keywords:
   - data analytics
   - notebooks
   - machine learning
+  - feature-engineering
   - computer-science-education
   - data-analytics-education
   - professional-python
@@ -44,6 +47,7 @@ keywords:
   - python
   - jupyter
   - pandas
+  - scikit-learn
   - git
   - github
   - open-source
